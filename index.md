@@ -12,10 +12,10 @@ title: Blog
     </a>
     <i>posted on {{ post.date | date: "%-d %b %Y" }}</i>
     <p>
-      {% if post.excerpt %}
-        {{ post.excerpt }}
-      {% else %}
+      {% if post.content %}
         {{ post.content }}
+      {% else %}
+        {{ post.excerpt }}
       {% endif %}
     </p>
   </div>
