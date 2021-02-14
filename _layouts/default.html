@@ -1,20 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{site.language}}">
   {% include head.html %}
   <body>
-    <div class="page-content">
-      <div class="container">
-        <div class="three columns">
-          {% include header.html %}
-        </div>
-
-        <div class="nine columns" style="z-index:100;">
-          <div class="wrapper">
-            {{ content }}
-          </div>
-        </div>
-      </div>
-      {% include footer.html %} 
-    </div>
-  </body>
+	<div id="main">
+		{% include logo.html %}
+		{% include nav.html %}
+		<div id="content-left">
+      <h2>{{page.title}}</h2>
+      {{content}}
+		</div>
+		{% include footer.html %}
+	</div>
+    </body>
 </html>
