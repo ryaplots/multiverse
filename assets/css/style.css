@@ -1,5 +1,5 @@
 body	{
-	background-color: #ead7dc;
+	background-color: #edeae5;
 	margin-top: 0px;
 	padding:0;
 	font-family: 'Noto Serif TC', serif;
@@ -9,7 +9,7 @@ body	{
 
 a:link, a:visited	{
 	text-decoration: none;
-	color:#e85a4f;
+	color:#000;
 }
 
 a:hover	{
@@ -39,7 +39,7 @@ a:hover	{
 	margin-bottom:20px;
 	padding-bottom:20px;
 	width: 80%;
-	color: #8e8d8a;
+	color: #000;
 }
 
 #content {
@@ -87,7 +87,7 @@ a:hover	{
 
 #post-short a:link, #post-short a:visited	{
 	text-decoration: none;
-	color:#fff
+	color:#e85a4f
 }
 
 #post-short a:hover	{
@@ -101,12 +101,12 @@ a:hover	{
 
 #post-short i	{
 	font-size:0.8em;
-	color: #d8c3a5;
+	color: #fce181;
 }
 
 #post i	{
 	font-size:0.9em;
-	color: #d8c3a5;
+	color: #fce181;
 }
 
 #categories a, #categories a:link, #categories a:visited {
