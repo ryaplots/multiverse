@@ -9,7 +9,7 @@ body	{
 
 a:link, a:visited	{
 	text-decoration: none;
-	color:#000;
+	color:#3C403D;
 }
 
 a:hover	{
@@ -29,7 +29,7 @@ a:hover	{
 	padding-top:0px;
 	margin-bottom:5px;
 	padding-bottom:5px;
-	border-bottom: 1px solid #8e8d8a;
+	border-bottom: 1px solid #DADED4;
 }
 
 #content-left {
@@ -82,12 +82,12 @@ a:hover	{
 
 #post-short {
 	padding: 10px 30px;
-	border-bottom: 1px solid gray;
+	border-bottom: 1px solid #DADED4;
 }
 
 #post-short a:link, #post-short a:visited	{
 	text-decoration: none;
-	color:#e85a4f
+	color:#39603D;
 }
 
 #post-short a:hover	{
@@ -101,12 +101,12 @@ a:hover	{
 
 #post-short i	{
 	font-size:0.8em;
-	color: #fce181;
+	color: #A3BCB6;
 }
 
 #post i	{
 	font-size:0.9em;
-	color: #fce181;
+	color: #A3BCB6;
 }
 
 #categories a, #categories a:link, #categories a:visited {
