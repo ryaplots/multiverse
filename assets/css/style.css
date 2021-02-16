@@ -35,7 +35,6 @@ a:hover	{
 #content-left {
 	text-align:left;
 	margin:auto;
-	padding-top:5px;
 	margin-bottom:20px;
 	padding-bottom:20px;
 	width: 80%;
@@ -45,8 +44,6 @@ a:hover	{
 #content {
 	text-align:center;
 	margin:auto;
-	margin-top:20px;
-	padding-top:20px;
 	margin-bottom:20px;
 	padding-bottom:20px;
 }
@@ -81,7 +78,7 @@ a:hover	{
 }
 
 #post-short {
-	padding: 10px 30px;
+	padding: 30px;
 	border-bottom: 1px solid #DADED4;
 }
 
