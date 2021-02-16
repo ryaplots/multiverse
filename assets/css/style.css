@@ -1,5 +1,5 @@
 body	{
-	background-color: #1a1d1d;
+	background-color: #ead7dc;
 	margin-top: 0px;
 	padding:0;
 	font-family: 'Noto Serif TC', serif;
@@ -9,7 +9,7 @@ body	{
 
 a:link, a:visited	{
 	text-decoration: none;
-	color:#fff
+	color:#e85a4f;
 }
 
 a:hover	{
@@ -29,7 +29,7 @@ a:hover	{
 	padding-top:0px;
 	margin-bottom:5px;
 	padding-bottom:5px;
-	border-bottom: 1px solid #999;
+	border-bottom: 1px solid #8e8d8a;
 }
 
 #content-left {
@@ -39,7 +39,7 @@ a:hover	{
 	margin-bottom:20px;
 	padding-bottom:20px;
 	width: 80%;
-	color: #e3e2df;
+	color: #8e8d8a;
 }
 
 #content {
@@ -57,7 +57,7 @@ a:hover	{
 	font-size:0.8em;
 	margin-bottom:10px;
 	padding-bottom:10px;
-	border-top: 1px solid #fff;
+	border-top: 1px solid #8e8d8a;
 }
 
 #logo	{
@@ -73,7 +73,7 @@ a:hover	{
 
 #content-left a:link, #content-left a:visited	{
 	text-decoration: underline;
-	color:#fff
+	color:#e85a4f
 }
 
 #content-left a:hover	{
@@ -83,7 +83,6 @@ a:hover	{
 #post-short {
 	padding: 10px 30px;
 	border-bottom: 1px solid gray;
-	background-color: #272727;
 }
 
 #post-short a:link, #post-short a:visited	{
@@ -102,12 +101,12 @@ a:hover	{
 
 #post-short i	{
 	font-size:0.8em;
-	color: grey;
+	color: #d8c3a5;
 }
 
 #post i	{
 	font-size:0.9em;
-	color: grey;
+	color: #d8c3a5;
 }
 
 #categories a, #categories a:link, #categories a:visited {
