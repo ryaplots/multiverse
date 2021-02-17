@@ -2,7 +2,7 @@
 
 {%- assign taxonomies = site.posts | group_by_exp: "post", "post.date | date: '%Y'" -%}
 
-<div class="taxonomies-wrapper">
+<div id="content-left">
   <ul class="taxonomies">
     {%- for taxonomy in taxonomies -%}
       <li>
@@ -29,12 +29,4 @@
       </li>
     {%- endfor -%}
   </ul>
-  <a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
 {%- endfor -%}
-
-<script>
-  function backToTop() {
-    const main = document.getElementById("site-main");
-    main.scrollTop = 0;
-  }
-</script>
