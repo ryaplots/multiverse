@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="{{site.language}}">
+    {% include head.html %}
+    <body id="main">
+
 {{ content }}
 
 {%- assign taxonomies = site.posts | group_by_exp: "post", "post.date | date: '%Y'" -%}
@@ -30,3 +35,6 @@
     {%- endfor -%}
   </ul>
 {%- endfor -%}
+      
+  </body>
+</html>
