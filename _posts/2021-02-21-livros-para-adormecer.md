@@ -10,5 +10,5 @@ Minha mãe lia-me poemas para adormecer sobre terras invertidas, onde os peixes 
 Minha mãe cantava-me canções para adormecer sobre tranças desfeitas e escapatórias secretas.
 Nessa altura, o mundo era selvagem, encantador, aventureiro e desafiante. Eu podia ir, montada no ombro de um gigante, empurrar as nuvens com as mãos e tocar as estrelas.
 Parecia que tinha mil anos de vida e milhões de aventuras por viver. 
-Esse anos evaporaram com o orvalho e o gigante recusou-se a levar-me para para conhecer o mundo.
+Esse anos evaporaram com o orvalho e o gigante recusou-se a levar-me para o mundo conhecer.
 Mãe, lê-me um livro para adormecer...
